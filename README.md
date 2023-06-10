@@ -39,7 +39,7 @@ in ipynb file, column "L" of data frame "data" was calculated by emp * avh, but 
 in ipynb file, added a new row of output for the average values per column.
 
 ### 2023/06/06
-created "README.md"
+created "README.md".
 
 in ipynb file, added the column "alpha_x_ln_k" to the data frame "data" to put the alpha in diff().
 
