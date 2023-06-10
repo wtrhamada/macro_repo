@@ -32,6 +32,9 @@ Finally, we output *the growth rate of labor productivity, the rate of change in
 
 ## Change Log
 
+### 2023/06/11
+in ipynb file, changed the calculation method of Average of TFP Share and Capital Share in the output table. The average of Growth Rate, TFP Growth, and Capital Deepening is now used in the calculation.
+
 ### 2023/06/10
 in ipynb file, column "L" of data frame "data" was calculated by emp * avh, but only the value of emp is used instead.
 
