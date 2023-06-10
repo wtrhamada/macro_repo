@@ -17,7 +17,7 @@ This file.
 ### 2. macro_report_business_cycle
 This file is coded by Matlab.
 
-We obtain GDP data for Germany and Japan for 1994-2022 from FRED (https://fred.stlouisfed.org), apply the HP filter, and plot **the cyclical variation components on a time-series graph**.
+We obtain GDP data for Germany and Japan for 1994-2022 from [FRED](https://fred.stlouisfed.org), apply the HP filter, and plot **the cyclical variation components on a time-series graph**.
 
 We also calculate **the standard deviation of the cyclical components** for each of Germany and Japan, and **the correlation coefficient between the cyclical components** for Germany and Japan.
 
@@ -25,7 +25,7 @@ We also calculate **the standard deviation of the cyclical components** for each
 ### 3. macro_report_growth_accounting.ipynb
 This file is coded by Python.
 
-We get data from Penn World Table (https://www.rug.nl/ggdc/productivity/pwt/?lang=en), and decompose labor productivity growth into TFP and Capital deepening. The countries targeted are Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States.
+We get data from [Penn World Table](https://www.rug.nl/ggdc/productivity/pwt/?lang=en), and decompose labor productivity growth into TFP and Capital deepening. The countries targeted are Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States.
 
 Finally, we output **the growth rate of labor productivity, the rate of change in TFP and Capital deepening**, and **the contribution of TFP and Capital deepening** for each country in table format.
 
