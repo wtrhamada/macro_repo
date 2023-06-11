@@ -1,4 +1,4 @@
-# macro_repo
+# macro_report
 
 ## About this repository
 This repository contains programs to calculate business cycles and programs to calculate growth accounting.
